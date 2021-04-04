@@ -7,8 +7,6 @@
   <img align="left" alt="Dennis Machu LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dennismachu.dennismachu)
-
 <br />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dennismachu&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
 
